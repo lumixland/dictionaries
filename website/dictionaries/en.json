@@ -1,0 +1,168 @@
+{
+    "index": {
+        "verifiedBot": "VERIFIED BOT",
+        "title": "Empower your server now with",
+        "description": "Empower your Discord server with Lumix, the most advanced and user-friendly bot. Enjoy a seamless experience with moderation tools, fun commands, and customization.",
+        "install": "Install on Discord",
+        "learnMore": "Learn More",
+        "trustedBy": "TRUSTED BY OVER {servers} SERVERS",
+        "members": "members",
+        "runAnimation": "Run Animation",
+        "playingAnimation": "Playing Animation..."
+    },
+    "not-found": {
+        "title": "404 - Not Found!",
+        "description": "The page you&apos;re looking for doesn&apos;t exist or has been moved.",
+        "back": "Go Back",
+        "support": "Contact Support"
+    },
+    "error": {
+        "title": "Something went wrong!",
+        "description": "Something really bad happened. Please try again later or contact support.",
+        "tryAgain": "Try Again",
+        "support": "Contact Support"
+    },
+    "tutorials": {
+        "title": "Tutorials",
+        "categories": {
+            "tutorialTypes": {
+                "SERVER_MANAGEMENT": "Server Management",
+                "ECONOMY": "Economy",
+                "MODERATION": "Moderation",
+                "FUN": "Fun",
+                "MUSIC": "Music",
+                "LEVELING": "Leveling",
+                "WELCOME": "Welcome",
+                "GOODBYE": "Goodbye",
+                "REACTION_ROLES": "Reaction Roles",
+                "TICKET": "Ticket",
+                "SUGGESTION": "Suggestion",
+                "REPORT": "Report",
+                "ANNOUNCEMENT": "Announcement",
+                "POLL": "Poll",
+                "GIVEAWAY": "Giveaway",
+                "SHOP": "Shop",
+                "BOOSTER": "Booster",
+                "JOB": "Job"
+            }
+        },
+        "noResults": "No tutorials available"
+    },
+    "tutorial": {
+        "lastUpdated": "Last updated at",
+        "edit": "Edit Tutorial",
+        "onThisPage": "on this page"
+    },
+    "premium": {
+        "title": "Subscribe to our service",
+        "description": "Choose the special plan that works for you",
+        "save": "Save",
+        "perMonth": "month",
+        "subscribe": "Subscribe",
+        "subscribedTo": "Subscribed to",
+        "plans": {
+            "monthly": {
+                "name": "Monthly",
+                "billedAt": "Billed monthly at",
+                "features": {
+                    "Higher-message-limit": "Higher message limit",
+                    "Custom-emojis": "Custom emojis",
+                    "Priority-support": "Priority support",
+                    "Access-to-beta-features": "Access to beta features"
+                }
+            },
+            "yearly": {
+                "name": "Yearly",
+                "billedAt": "Billed yearly at",
+                "features": {
+                    "Higher-message-limit": "Higher message limit",
+                    "Custom-emojis": "Custom emojis",
+                    "Priority-support": "Priority support",
+                    "Access-to-beta-features": "Access to beta features"
+                }
+            }
+        }
+    },
+    "dashboard": {
+        "server-select": {
+            "title": "Select a server",
+            "description": "A server is missing? Click here to refresh the list",
+            "manage": "Manage Server",
+            "setup": "Setup"
+        }
+    },
+    "modals": {
+        "leavingLumix": {
+            "title": "Leaving Lumix",
+            "description": "This link is taking you to an external website.{br}Are you sure?",
+            "cancel": "Cancel",
+            "continue": "Continue"
+        },
+        "imageView": {
+            "close": "Close"
+        },
+        "editTutorial": {
+            "tabs": {
+                "edit": "Edit",
+                "titlePlaceholder": "Title",
+                "topicsPlaceholder": "Topics (comma separated)",
+                "tutorialTypes": {
+                    "SERVER_MANAGEMENT": "Server Management",
+                    "ECONOMY": "Economy",
+                    "MODERATION": "Moderation",
+                    "FUN": "Fun",
+                    "MUSIC": "Music",
+                    "LEVELING": "Leveling",
+                    "WELCOME": "Welcome",
+                    "GOODBYE": "Goodbye",
+                    "REACTION_ROLES": "Reaction Roles",
+                    "TICKET": "Ticket",
+                    "SUGGESTION": "Suggestion",
+                    "REPORT": "Report",
+                    "ANNOUNCEMENT": "Announcement",
+                    "POLL": "Poll",
+                    "GIVEAWAY": "Giveaway",
+                    "SHOP": "Shop",
+                    "BOOSTER": "Booster",
+                    "JOB": "Job"
+                },
+                "preview": "Preview"
+            },
+            "save": "Save",
+            "cancel": "Cancel"
+        }
+    },
+    "footer-banner": {
+        "title": "Together against others using paywalls!",
+        "description": "We believe all features should be offered for free and not put behind a paywall. Lumix and Majo.exe are free bots with all features available to everyone using light limitations.",
+        "install": "Install Lumix on Discord",
+        "majoexe": "Visit Majo.exe"
+    },
+    "footer": {
+        "resources": "Resources",
+        "github": "GitHub",
+        "tutorials": "Tutorials",
+        "support": "Support",
+        "dashboard": "Dashboard",
+        "premium": "Premium",
+        "install": "Install",
+        "legal": "Legal",
+        "privacyPolicy": "Privacy Policy",
+        "termsOfService": "Terms of Service",
+        "allRightsReserved": "{year} &copy; Lumix. All rights reserved.",
+        "empowerDescription": "Empower your Discord server with Lumix, the most advanced and user-friendly bot available. Enjoy a seamless experience with a vast array of features, including moderation tools, fun commands, and customizability options.",
+        "servicesOperational": "All services are operational",
+        "servicesDown": "Some services are down"
+    },
+    "header": {
+        "features": "Features",
+        "servers": "Servers",
+        "premium": "Premium",
+        "login": "Login",
+        "logout": "Logout",
+        "myServers": "My Servers",
+        "transferPremium": "Transfer Premium",
+        "supportServer": "Support Server",
+        "tutorials": "Tutorials"
+    }
+}
