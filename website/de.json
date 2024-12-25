@@ -1,168 +1,168 @@
 {
-    "index": {
-        "verifiedBot": "VERIFIZIERTER BOT",
-        "title": "Stärken Sie jetzt Ihren Server mit",
-        "description": "Stärken Sie Ihren Discord-Server mit Lumix, dem fortschrittlichsten und benutzerfreundlichsten Bot. Genießen Sie ein nahtloses Erlebnis mit Moderationstools, lustigen Befehlen und Anpassungsmöglichkeiten.",
-        "install": "Auf Discord installieren",
-        "learnMore": "Mehr erfahren",
-        "trustedBy": "VERTRAUT VON ÜBER {servers} SERVERN",
-        "members": "Mitglieder",
-        "runAnimation": "Animation ausführen",
-        "playingAnimation": "Animation wird abgespielt..."
+  "index": {
+    "verifiedBot": "VERIFIZIERTER BOT",
+    "title": "Stärken Sie jetzt Ihren Server mit",
+    "description": "Stärken Sie Ihren Discord-Server mit Lumix, dem fortschrittlichsten und benutzerfreundlichsten Bot. Genießen Sie ein nahtloses Erlebnis mit Moderationstools, lustigen Befehlen und Anpassungsmöglichkeiten.",
+    "install": "Auf Discord installieren",
+    "learnMore": "Mehr erfahren",
+    "trustedBy": "VERTRAUT VON ÜBER {servers} SERVERN",
+    "members": "Mitglieder",
+    "runAnimation": "Animation ausführen",
+    "playingAnimation": "Animation wird abgespielt..."
+  },
+  "not-found": {
+    "title": "404 - Nicht gefunden!",
+    "description": "Die Seite, die Sie suchen, existiert nicht oder wurde verschoben.",
+    "back": "Zurück",
+    "support": "Support kontaktieren"
+  },
+  "error": {
+    "title": "Etwas ist schief gelaufen!",
+    "description": "Etwas wirklich Schlimmes ist passiert. Bitte versuchen Sie es später erneut oder kontaktieren Sie den Support.",
+    "tryAgain": "Erneut versuchen",
+    "support": "Support kontaktieren"
+  },
+  "tutorials": {
+    "title": "Tutorials",
+    "categories": {
+      "tutorialTypes": {
+        "SERVER_MANAGEMENT": "Serververwaltung",
+        "ECONOMY": "Wirtschaft",
+        "MODERATION": "Moderation",
+        "FUN": "Spaß",
+        "MUSIC": "Musik",
+        "LEVELING": "Leveling",
+        "WELCOME": "Willkommen",
+        "GOODBYE": "Auf Wiedersehen",
+        "REACTION_ROLES": "Reaktionsrollen",
+        "TICKET": "Ticket",
+        "SUGGESTION": "Vorschlag",
+        "REPORT": "Bericht",
+        "ANNOUNCEMENT": "Ankündigung",
+        "POLL": "Umfrage",
+        "GIVEAWAY": "Verlosung",
+        "SHOP": "Shop",
+        "BOOSTER": "Booster",
+        "JOB": "Job"
+      }
     },
-    "not-found": {
-        "title": "404 - Nicht gefunden!",
-        "description": "Die Seite, die Sie suchen, existiert nicht oder wurde verschoben.",
-        "back": "Zurück",
-        "support": "Support kontaktieren"
-    },
-    "error": {
-        "title": "Etwas ist schief gelaufen!",
-        "description": "Etwas wirklich Schlimmes ist passiert. Bitte versuchen Sie es später erneut oder kontaktieren Sie den Support.",
-        "tryAgain": "Erneut versuchen",
-        "support": "Support kontaktieren"
-    },
-    "tutorials": {
-        "title": "Tutorials",
-        "categories": {
-            "tutorialTypes": {
-                "SERVER_MANAGEMENT": "Serververwaltung",
-                "ECONOMY": "Wirtschaft",
-                "MODERATION": "Moderation",
-                "FUN": "Spaß",
-                "MUSIC": "Musik",
-                "LEVELING": "Leveling",
-                "WELCOME": "Willkommen",
-                "GOODBYE": "Auf Wiedersehen",
-                "REACTION_ROLES": "Reaktionsrollen",
-                "TICKET": "Ticket",
-                "SUGGESTION": "Vorschlag",
-                "REPORT": "Bericht",
-                "ANNOUNCEMENT": "Ankündigung",
-                "POLL": "Umfrage",
-                "GIVEAWAY": "Verlosung",
-                "SHOP": "Shop",
-                "BOOSTER": "Booster",
-                "JOB": "Job"
-            }
-        },
-        "noResults": "Keine Tutorials verfügbar"
-    },
-    "tutorial": {
-        "lastUpdated": "Zuletzt aktualisiert am",
-        "edit": "Tutorial bearbeiten",
-        "onThisPage": "auf dieser Seite"
-    },
-    "premium": {
-        "title": "Abonnieren Sie unseren Service",
-        "description": "Wählen Sie den speziellen Plan, der für Sie funktioniert",
-        "save": "Speichern",
-        "perMonth": "Monat",
-        "subscribe": "Abonnieren",
-        "subscribedTo": "Abonniert bei",
-        "plans": {
-            "monthly": {
-                "name": "Monatlich",
-                "billedAt": "Monatlich abgerechnet bei",
-                "features": {
-                    "Higher-message-limit": "Höheres Nachrichtenlimit",
-                    "Custom-emojis": "Benutzerdefinierte Emojis",
-                    "Priority-support": "Priorisierter Support",
-                    "Access-to-beta-features": "Zugang zu Beta-Funktionen"
-                }
-            },
-            "yearly": {
-                "name": "Jährlich",
-                "billedAt": "Jährlich abgerechnet bei",
-                "features": {
-                    "Higher-message-limit": "Höheres Nachrichtenlimit",
-                    "Custom-emojis": "Benutzerdefinierte Emojis",
-                    "Priority-support": "Priorisierter Support",
-                    "Access-to-beta-features": "Zugang zu Beta-Funktionen"
-                }
-            }
+    "noResults": "Keine Tutorials verfügbar"
+  },
+  "tutorial": {
+    "lastUpdated": "Zuletzt aktualisiert am",
+    "edit": "Tutorial bearbeiten",
+    "onThisPage": "auf dieser Seite"
+  },
+  "premium": {
+    "title": "Abonnieren Sie unseren Service",
+    "description": "Wählen Sie den speziellen Plan, der für Sie funktioniert",
+    "save": "Speichern",
+    "perMonth": "Monat",
+    "subscribe": "Abonnieren",
+    "subscribedTo": "Abonniert bei",
+    "plans": {
+      "monthly": {
+        "name": "Monatlich",
+        "billedAt": "Monatlich abgerechnet bei",
+        "features": {
+          "Higher-message-limit": "Höheres Nachrichtenlimit",
+          "Custom-emojis": "Benutzerdefinierte Emojis",
+          "Priority-support": "Priorisierter Support",
+          "Access-to-beta-features": "Zugang zu Beta-Funktionen"
         }
-    },
-    "dashboard": {
-        "server-select": {
-            "title": "Wählen Sie einen Server",
-            "description": "Ein Server fehlt? Klicken Sie hier, um die Liste zu aktualisieren",
-            "manage": "Server verwalten",
-            "setup": "Einrichten"
+      },
+      "yearly": {
+        "name": "Jährlich",
+        "billedAt": "Jährlich abgerechnet bei",
+        "features": {
+          "Higher-message-limit": "Höheres Nachrichtenlimit",
+          "Custom-emojis": "Benutzerdefinierte Emojis",
+          "Priority-support": "Priorisierter Support",
+          "Access-to-beta-features": "Zugang zu Beta-Funktionen"
         }
-    },
-    "modals": {
-        "leavingLumix": {
-            "title": "Lumix verlassen",
-            "description": "Dieser Link führt Sie zu einer externen Website.{br}Sind Sie sicher?",
-            "cancel": "Abbrechen",
-            "continue": "Fortfahren"
-        },
-        "imageView": {
-            "close": "Schließen"
-        },
-        "editTutorial": {
-            "tabs": {
-                "edit": "Bearbeiten",
-                "titlePlaceholder": "Titel",
-                "topicsPlaceholder": "Themen (durch Kommas getrennt)",
-                "tutorialTypes": {
-                    "SERVER_MANAGEMENT": "Serververwaltung",
-                    "ECONOMY": "Wirtschaft",
-                    "MODERATION": "Moderation",
-                    "FUN": "Spaß",
-                    "MUSIC": "Musik",
-                    "LEVELING": "Leveling",
-                    "WELCOME": "Willkommen",
-                    "GOODBYE": "Auf Wiedersehen",
-                    "REACTION_ROLES": "Reaktionsrollen",
-                    "TICKET": "Ticket",
-                    "SUGGESTION": "Vorschlag",
-                    "REPORT": "Bericht",
-                    "ANNOUNCEMENT": "Ankündigung",
-                    "POLL": "Umfrage",
-                    "GIVEAWAY": "Verlosung",
-                    "SHOP": "Shop",
-                    "BOOSTER": "Booster",
-                    "JOB": "Job"
-                },
-                "preview": "Vorschau"
-            },
-            "save": "Speichern",
-            "cancel": "Abbrechen"
-        }
-    },
-    "footer-banner": {
-        "title": "Gemeinsam gegen andere, die Paywalls verwenden!",
-        "description": "Wir glauben, dass alle Funktionen kostenlos angeboten werden sollten und nicht hinter einer Paywall versteckt werden sollten. Lumix und Majo.exe sind kostenlose Bots mit allen Funktionen für alle Benutzer mit leichten Einschränkungen.",
-        "install": "Lumix auf Discord installieren",
-        "majoexe": "Besuchen Sie Majo.exe"
-    },
-    "footer": {
-        "resources": "Ressourcen",
-        "github": "GitHub",
-        "tutorials": "Tutorials",
-        "support": "Support",
-        "dashboard": "Dashboard",
-        "premium": "Premium",
-        "install": "Installieren",
-        "legal": "Rechtliches",
-        "privacyPolicy": "Datenschutzrichtlinie",
-        "termsOfService": "Nutzungsbedingungen",
-        "allRightsReserved": "{year} &copy; Lumix. Alle Rechte vorbehalten.",
-        "empowerDescription": "Stärken Sie Ihren Discord-Server mit Lumix, dem fortschrittlichsten und benutzerfreundlichsten Bot. Genießen Sie ein nahtloses Erlebnis mit einer Vielzahl von Funktionen, einschließlich Moderationstools, lustigen Befehlen und Anpassungsoptionen.",
-        "servicesOperational": "Alle Dienste sind betriebsbereit",
-        "servicesDown": "Einige Dienste sind ausgefallen"
-    },
-    "header": {
-        "features": "Funktionen",
-        "servers": "Server",
-        "premium": "Premium",
-        "login": "Anmelden",
-        "logout": "Abmelden",
-        "myServers": "Meine Server",
-        "transferPremium": "Premium übertragen",
-        "supportServer": "Support-Server",
-        "tutorials": "Tutorials"
+      }
     }
+  },
+  "dashboard": {
+    "server-select": {
+      "title": "Wählen Sie einen Server",
+      "description": "Ein Server fehlt? Klicken Sie hier, um die Liste zu aktualisieren",
+      "manage": "Server verwalten",
+      "setup": "Einrichten"
+    }
+  },
+  "modals": {
+    "leavingLumix": {
+      "title": "Lumix verlassen",
+      "description": "Dieser Link führt Sie zu einer externen Website.{br}Sind Sie sicher?",
+      "cancel": "Abbrechen",
+      "continue": "Fortfahren"
+    },
+    "imageView": {
+      "close": "Schließen"
+    },
+    "editTutorial": {
+      "tabs": {
+        "edit": "Bearbeiten",
+        "titlePlaceholder": "Titel",
+        "topicsPlaceholder": "Themen (durch Kommas getrennt)",
+        "tutorialTypes": {
+          "SERVER_MANAGEMENT": "Serververwaltung",
+          "ECONOMY": "Wirtschaft",
+          "MODERATION": "Moderation",
+          "FUN": "Spaß",
+          "MUSIC": "Musik",
+          "LEVELING": "Leveling",
+          "WELCOME": "Willkommen",
+          "GOODBYE": "Auf Wiedersehen",
+          "REACTION_ROLES": "Reaktionsrollen",
+          "TICKET": "Ticket",
+          "SUGGESTION": "Vorschlag",
+          "REPORT": "Bericht",
+          "ANNOUNCEMENT": "Ankündigung",
+          "POLL": "Umfrage",
+          "GIVEAWAY": "Verlosung",
+          "SHOP": "Shop",
+          "BOOSTER": "Booster",
+          "JOB": "Job"
+        },
+        "preview": "Vorschau"
+      },
+      "save": "Speichern",
+      "cancel": "Abbrechen"
+    }
+  },
+  "footer-banner": {
+    "title": "Gemeinsam gegen andere, die Paywalls verwenden!",
+    "description": "Wir glauben, dass alle Funktionen kostenlos angeboten werden sollten und nicht hinter einer Paywall versteckt werden sollten. Lumix und Majo.exe sind kostenlose Bots mit allen Funktionen für alle Benutzer mit leichten Einschränkungen.",
+    "install": "Lumix auf Discord installieren",
+    "majoexe": "Besuchen Sie Majo.exe"
+  },
+  "footer": {
+    "resources": "Ressourcen",
+    "github": "GitHub",
+    "tutorials": "Tutorials",
+    "support": "Support",
+    "dashboard": "Dashboard",
+    "premium": "Premium",
+    "install": "Installieren",
+    "legal": "Rechtliches",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen",
+    "allRightsReserved": "{year} &copy; Lumix. Alle Rechte vorbehalten.",
+    "empowerDescription": "Stärken Sie Ihren Discord-Server mit Lumix, dem fortschrittlichsten und benutzerfreundlichsten Bot. Genießen Sie ein nahtloses Erlebnis mit einer Vielzahl von Funktionen, einschließlich Moderationstools, lustigen Befehlen und Anpassungsoptionen.",
+    "servicesOperational": "Alle Dienste sind betriebsbereit",
+    "servicesDown": "Einige Dienste sind ausgefallen"
+  },
+  "header": {
+    "features": "Funktionen",
+    "servers": "Server",
+    "premium": "Premium",
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "myServers": "Meine Server",
+    "transferPremium": "Premium übertragen",
+    "supportServer": "Support-Server",
+    "tutorials": "Tutorials"
+  }
 }
